@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Tentative Syllabus
 order: 100
 group: navigation
 description: ""
