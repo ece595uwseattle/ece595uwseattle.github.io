@@ -10,10 +10,10 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :  "CSE 599W: Systems for ML"
+title :  "ECE 595: Foundations of Blockchain Systems"
 tagline:
 author :
-  name : cse599w
+  name : ece595
 
 
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : dlsys-course.github.io
+production_url : ece595uwseattle.github.io
 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
@@ -55,9 +55,9 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://dlsys-course.github.io
+  BASE_PATH : https://ece595uwseattle.github.io
 
-  BLOG_PATH : http://dlsys-course.github.io
+  BLOG_PATH : https://ece595uwseattle.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
