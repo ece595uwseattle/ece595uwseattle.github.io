@@ -1,20 +1,15 @@
 ---
 layout: index
 title: "CSE 599W"
-description: "UW Course: Systems for ML"
+description: "UW Course: Foundations of Blockchain Systems"
 ---
 {% include JB/setup %}
 
 ## Course Information
 
-Over the past few years, deep learning has become an important technique to successfully solve problems in many different fields, such as vision, NLP, robotics. An important ingredient that is driving this success is the development of deep learning systems that efficiently support the task of learning and inference of complicated models using many devices and possibly using distributed resources. The study of how to build and optimize these deep learning systems is now an active area of research and commercialization, and yet there isn’t a course that covers this topic.
-
-This course is designed to fill this gap.  We will be covering various aspects of deep learning systems, including: basics of deep learning, programming models for expressing machine learning models, automatic differentiation, memory optimization, scheduling, distributed learning, hardware acceleration, domain specific languages, and model serving. Many of these topics intersect with existing research directions in databases, systems and networking, architecture and programming languages. The goal is to offer a comprehensive picture on how deep learning systems works, discuss and execute on possible research opportunities, and build open-source software that will have broad appeal.
-
-We will have two classes per week. The class will either be lecture or  lab/discuss session.
-Each lecture will study a specific aspect of deep learning systems.
-The lab/discussion session will contain tutorials to implement that specific aspect
-and will include case studies of existing systems, such as Tensorflow, Caffe, Mxnet, PyTorch, and others.
+In the big data era, the digital commons (and associated data and control) are increasingly controlled by a small number of platforms that intermediate digital interactions (eg: a majority of the top companies are digital platforms: Amazon, Apple, Google, Microsoft, Alibaba, Tencent, Facebook, Uber, Ebay). Blockchains are an emerging paradigm for permissionless distributed computing, that can remove the intermediary while at the same time providing trusted computing and storage guarantees. While applications of blockchains beyond cryptocurrencies into generalized digital platforms, are still in their infancy, blockchain technology is expected to create several trillion dollars of value in the next few years, potentially aiding the democratization of trust, data and control in digital platforms. 
+In this course, we will take a first-principles, full-stack approach to blockchains: we view  blockchains as a whole integrated system involving networking, distributed consensus, data storage, incentives, and applications. We will explore the foundations of how each of these layers are designed (these foundational design principles as well as specific algorithms are the subject of cutting-edge research).  A central feature of these blockchain protocols is to tolerate adversarial users as well as rational users. While much pioneering work has happened in distributed computing on tolerating adversaries, it has focused on the permissioned setting, where there is a permission authority that decides which nodes participate in the protocol. We will focus this course on the permissionless setting without a central permissioning authority. Proving security results in this setting involves understanding convergence of certain random processes on trees (including branching random walks) under adversarial actions. Random processes plays a central role in the understanding of blockchains. 
+The course will cover cutting-edge material on how ideas from a variety of theoretical areas play a pivotal role in designing these systems successfully, including distributed computing, information theory, queuing theory, networking, coding theory and game theory. For the systems-oriented students, there will be opportunities to build on a RUST codebase (built on C++) for high-performance blockchain. 
 
 ## Instructors
 - [Tianqi Chen](http://homes.cs.washington.edu/~tqchen/)
