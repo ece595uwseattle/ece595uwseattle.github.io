@@ -10,7 +10,7 @@ description: ""
 The schedule is tentative and can subject to change.
 
 
-- Introduction
+- Introduction [1 lecture]
   - The Layers of Blockchain
     - Networking, Consensus, Scaling and Applications
   - Two Distinct Lens
