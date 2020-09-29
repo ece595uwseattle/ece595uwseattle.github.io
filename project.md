@@ -1,11 +1,1 @@
----
-layout: page
-title: Projects
-order: 100
-group: navigation
-description: ""
----
-{% include JB/setup %}
-
-To be added later.
-
+The course will have a project done in teams.
