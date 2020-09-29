@@ -11,7 +11,7 @@ The schedule is tentative and can subject to change.
 
 
 - Introduction
- - The Layers of Blockchain
+  - The Layers of Blockchain
   - Networking, Consensus, Scaling and Applications
 
                             
