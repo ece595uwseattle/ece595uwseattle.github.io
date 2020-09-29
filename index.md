@@ -29,25 +29,7 @@ The course will be broadly accessible and will only assume mathematical maturity
 
 
 ## Logistics
-- Time: Tue/Th 11:30am - 12:50pm
-- Place: Mueller Hall 153
-  - We will be using CSE 305 for some of the guest lectures, checkout the [schedule](schedule) for details
-- ***Slack***: Join [https://uw-cse.slack.com](https://uw-cse.slack.com) dlsys channel for course discussions and announcements
+- Time: Mon/Wed 230-420pm
 
-## Prerequisites
-- Proficiency in Python, familar in C/C++
-  - We will mainly be using python for case study the existing systems,
-    and C/C++ for some of the background hacking.
-- Basic knowledge of machine learning (e.g CSE 546)
-- Prior knowledge in system (operating system/database) is useful but not required.
-
-## Homeworks and Grading
-
-We will have assignments and a final project.
-
-- Course project: 60%
-- Homeworks: 30%
-- Discussion participation: 10%
-
-## Acknowledgement
-This course is created with help from DLsys seminar group at University of Washington.
+## Instructor
+- <a href='https://infotheory.ece.uw.edu'> Sreeram Kannan </a>
