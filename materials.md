@@ -1,18 +1,12 @@
 ---
 layout: page
-title: Materials
+title: References
 order: 100
 group: navigation
 description: ""
 ---
 {% include JB/setup %}
 
-This course is mainly about systems and we won't go deep
-on the learning perspectives. Here are useful materials to get you started.
 
-More materials will be posted throughout the course.
+The course will draw mainly on recent research papers. The course is co-designed with similar courses at [Stanford](http://web.stanford.edu/class/ee374/) and [UIUC](https://courses.grainger.illinois.edu/ece598pv/sp2020/) offered in 2020:
 
-## Materials on Deep Learning
-- [Deep Learning Book](http://www.deeplearningbook.org/) is a comprehensive material for the field.
-- [CS231n](http://cs231n.stanford.edu/) is a great course to get started on DL for vision.
-- [Dive into Deep Learning](http://en.diveintodeeplearning.org/) is an interactive open source book with code, math, and discussions.
