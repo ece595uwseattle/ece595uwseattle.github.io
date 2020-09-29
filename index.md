@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "CSE 599W"
+title: "ECE 595"
 description: "UW Course: Foundations of Blockchain Systems"
 ---
 {% include JB/setup %}
