@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Schedule
+title: Syllabus
 order: 100
 group: navigation
 description: ""
 ---
 {% include JB/setup %}
 
-The schedule is tentative and can subject to change.
+The syllabus is tentative and can subject to change.
 
 
 - Introduction [1 lecture]
