@@ -30,6 +30,7 @@ The course will be broadly accessible and will only assume mathematical maturity
 
 ## Logistics
 - Time: Mon/Wed 230-420pm
+- Meetings on Zoom: https://washington.zoom.us/meeting/register/tJwuce-trT0jE9aNsZm6LELoq4Xru934mexi
 
 ## Instructor
 - <a href='https://infotheory.ece.uw.edu'> Sreeram Kannan </a>
