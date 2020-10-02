@@ -7,6 +7,13 @@ description: ""
 ---
 {% include JB/setup %}
 
+Lecture-1: Introduction. Sep-30-2020
+- <a href='https://washington.zoom.us/rec/share/Y5EhcDMnBnTazn1R89SNAbEYAcMhNMuEvPV5cJ0Bk4ou2GhJR_AqVwI_qUdRHWS9.vXxhSUEoYu4vl_kG?startTime=1601502661000'>Video lecture</a>
+- <a href='Lecture1.pdf'>Slides in pdf</a>
+
+
+
+
 The syllabus is tentative and can subject to change.
 
 
