@@ -12,12 +12,12 @@ Lecture-1: Introduction. Sep-30-2020
 - <a href='https://washington.zoom.us/rec/share/Y5EhcDMnBnTazn1R89SNAbEYAcMhNMuEvPV5cJ0Bk4ou2GhJR_AqVwI_qUdRHWS9.vXxhSUEoYu4vl_kG?startTime=1601502661000'>Video lecture</a>
 - <a href='Lecture1.pdf'>Slides in pdf</a>
 
-Lecture-2: Primitives and Bitcoin. Sep-30-2020
+Lecture-2: Primitives and Bitcoin. Oct-5-2020
 - <a href='https://washington.zoom.us/rec/share/Z1O-ez0Qmq5yixjJ7U8USzFNxSbN51IghXO72l6EEY4_pa5AqzpwbRvg6j3695Jc.1r-s3pzriec2Paoc
 '>Video lecture</a>
 - <a href='Lecture2.pdf'>Slides in pdf</a>
 
-Lecture-3: The Bitcoin System. Sep-30-2020
+Lecture-3: The Bitcoin System. Oct-7-2020
 - <a href='https://washington.zoom.us/rec/share/t_Vpf5uFZoTpg8tWriDclKqMwClym47rGL6J-HmH0mmJib9eI0Lk7Bh3Qptqm0mn.yVtLlqfUxanMceoY'>Video lecture</a>
 - Notes to be posted.
 
