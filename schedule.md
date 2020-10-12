@@ -17,7 +17,9 @@ Lecture-2: Primitives and Bitcoin. Sep-30-2020
 '>Video lecture</a>
 - <a href='Lecture2.pdf'>Slides in pdf</a>
 
-
+Lecture-3: The Bitcoin System. Sep-30-2020
+- <a href='https://washington.zoom.us/rec/share/t_Vpf5uFZoTpg8tWriDclKqMwClym47rGL6J-HmH0mmJib9eI0Lk7Bh3Qptqm0mn.yVtLlqfUxanMceoY'>Video lecture</a>
+- Notes to be posted.
 
 
 
