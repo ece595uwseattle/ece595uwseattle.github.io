@@ -17,6 +17,7 @@ Lecture-2: Primitives and Bitcoin. Oct-5-2020
 - <a href='https://washington.zoom.us/rec/share/Z1O-ez0Qmq5yixjJ7U8USzFNxSbN51IghXO72l6EEY4_pa5AqzpwbRvg6j3695Jc.1r-s3pzriec2Paoc
 '>Video lecture</a>
 - <a href='Lecture2.pdf'>Slides in pdf</a>
+- <a href='Scribe_notes_Lecture_2.pdf'>Scribe Notes</a>
 
 Lecture-3: The Bitcoin System. Oct-7-2020
 - <a href='https://washington.zoom.us/rec/share/t_Vpf5uFZoTpg8tWriDclKqMwClym47rGL6J-HmH0mmJib9eI0Lk7Bh3Qptqm0mn.yVtLlqfUxanMceoY'>Video lecture</a>
