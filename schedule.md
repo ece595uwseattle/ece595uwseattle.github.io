@@ -11,6 +11,7 @@ description: ""
 Lecture-1: Introduction. Sep-30-2020
 - <a href='https://washington.zoom.us/rec/share/Y5EhcDMnBnTazn1R89SNAbEYAcMhNMuEvPV5cJ0Bk4ou2GhJR_AqVwI_qUdRHWS9.vXxhSUEoYu4vl_kG?startTime=1601502661000'>Video lecture</a>
 - <a href='Lecture1.pdf'>Slides in pdf</a>
+- <a href='Scribe_notes_Lecture_1.pdf'>Scribe Notes</a>
 
 Lecture-2: Primitives and Bitcoin. Oct-5-2020
 - <a href='https://washington.zoom.us/rec/share/Z1O-ez0Qmq5yixjJ7U8USzFNxSbN51IghXO72l6EEY4_pa5AqzpwbRvg6j3695Jc.1r-s3pzriec2Paoc
