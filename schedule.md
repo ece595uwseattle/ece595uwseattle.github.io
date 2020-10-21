@@ -29,10 +29,16 @@ Lecture-4: The Bitcoin System 2. Oct-12-2020
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%203%20Bitcoin%7C8218cd4e-298a-094e-83f4-153168a4a68e%2F%29'>Handwritten Notes</a>
 - <a href='Scribe_notes_Lecture_4.pdf'>Scribe Notes</a>
 
-Lecture-5: The Bitcoin System 3. Oct-12-2020
+Lecture-5: The Bitcoin System 3. Oct-14-2020
 - <a href='https://washington.zoom.us/rec/share/HnZZGTEbzUGQ0_79ZI_NmGkxhqVJJ-d3o4uEw77T2fq0ESaqvOm9ZpAX9Vlr1b9u.x6qNYCulCOECs5bF'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%205%20Security%7Ce68c64c9-468e-b343-9089-9013f7a3250e%2F%29'>Handwritten Notes</a>
 - <a href='Scribe_notes_Lecture_5.pdf'>Scribe Notes</a>
+
+Lecture-6: Security proofs (Private Attack). Oct-19-2020
+- <a href='https://washington.zoom.us/rec/share/hND_3wmZcxg72rJADO3SEo7uBYOAgmkIc2cmPPwuzTkb4s4jB7XCjYum1s1Hdb64.U5hrStxeSX3GOrnh'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%206%20Security%20Analysis%7Cbe8f0c6c-95e2-4743-a4b0-ba0d4b25978b%2F%29'>Handwritten Notes</a>
+
+
 
 <h2> Tentative Syllabus </h2>
 
