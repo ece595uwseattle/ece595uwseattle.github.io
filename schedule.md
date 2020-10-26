@@ -39,6 +39,10 @@ Lecture-6: Security proofs (Private Attack). Oct-19-2020
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%206%20Security%20Analysis%7Cbe8f0c6c-95e2-4743-a4b0-ba0d4b25978b%2F%29'>Handwritten Notes</a>
 
 
+Lecture-7: Throughput and the GHOST algorithm (Beyond the private attack). Oct-21-2020
+- <a href='https://washington.zoom.us/rec/share/fNSTDCITeoBa3zydpjVA3omGMowD7ITrfMo-6Y5bWS_Ljc4JxkWIwRRELcv04z82.PrYDW8iqH-9An4z_'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%207%20Beyond%20Private%20Attack%7C771304f6-53da-1c4d-89e3-35909932a2e1%2F%29'>Handwritten Notes</a>
+
 
 <h2> Tentative Syllabus </h2>
 
