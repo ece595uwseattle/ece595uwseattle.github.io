@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Assignments
+title: Piazza 
 order: 100
 group: navigation
 description: ""
 ---
 
-We will have biweekly assignments
+Please use [piazza](https://piazza.com/class/kfwz27c8alg2rv) to discuss your project and class material
+
+
