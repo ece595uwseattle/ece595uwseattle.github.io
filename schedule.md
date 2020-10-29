@@ -45,7 +45,7 @@ Lecture-7: Throughput and the GHOST algorithm (Beyond the private attack). Oct-2
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%207%20Beyond%20Private%20Attack%7C771304f6-53da-1c4d-89e3-35909932a2e1%2F%29'>Handwritten Notes</a>
 - <a href='Scribe_notes_Lecture_7.pdf'>Scribe Notes</a>
 
-Lecture-8: Safety beyond the Private Attack (Oct-26-2020)
+Lecture-8: Safety beyond the Private Attack. Oct-26-2020
 - <a href='https://washington.zoom.us/rec/share/MDqF1g1fH1ZIDpQuCCewH-yxugpkezZF33IFxCuw2B_w4FDBisGJ2BuvIiC1VadR.Q31GwMlY_41DeUxE'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%208%20Full%20Security%20Proof%7C3b7c1ec3-de44-af47-99d8-588873e34077%2F%29'>Handwritten Notes</a>
 
