@@ -54,6 +54,7 @@ Lecture-9: Liveness, Chain Quality and General Delay. Oct-28-2020
 startTime=1603920878000'>Video lecture Part-1</a>
 - <a href='https://washington.zoom.us/rec/play/Dq_7vqU_ecfivV9emplH9sbQAGpi6InraGR1a4TAfBd9u1lS9KaEoL3cqiqrdRtGZzIFUPsSTp9mda6u.LenWMsW6kCIUSF_y?startTime=1603926903000'>Video lecture Part-2</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%208%20Full%20Security%20Proof%7C3b7c1ec3-de44-af47-99d8-588873e34077%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_9.pdf'>Scribe Notes</a>
 
 Project ideas (discussed Oct-28-2020): 
 - <a href='https://washington.zoom.us/rec/share/2Z_NcR0dmK1kF_DqIXR9sjxzJMi2PJo7L99-AX9tuORt248fy57sf43fI3s_GOIf.9enT7MszrdSRHV4Z?startTime=1603926015000'>Project</a>
