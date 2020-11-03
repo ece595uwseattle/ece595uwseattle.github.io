@@ -61,7 +61,7 @@ Project ideas (discussed Oct-28-2020):
 
 Lecture-10: Prism: Low-latency confirmation. Nov-3-2020
 - <a href='https://washington.zoom.us/rec/share/f3Fm6HdVdRXacW49TQgZ3kdLNnum2SVFNumF7R4j6bw1pvvMW0TS2AqA09sInXxp.l8Dk6EoxIlA6I1f3?startTime=1604356558000'>Video lecture</a>
-<a href='Lecture10_Slides.pdf'>Slides</a>
+- <a href='Lecture10_Slides.pdf'>Slides</a>
 
 <h2> Tentative Syllabus </h2>
 
