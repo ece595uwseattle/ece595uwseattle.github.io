@@ -59,6 +59,10 @@ startTime=1603920878000'>Video lecture Part-1</a>
 Project ideas (discussed Oct-28-2020): 
 - <a href='https://washington.zoom.us/rec/share/2Z_NcR0dmK1kF_DqIXR9sjxzJMi2PJo7L99-AX9tuORt248fy57sf43fI3s_GOIf.9enT7MszrdSRHV4Z?startTime=1603926015000'>Project</a>
 
+Lecture-10: Prism: Low-latency confirmation. Nov-3-2020
+- <a href='https://washington.zoom.us/rec/share/f3Fm6HdVdRXacW49TQgZ3kdLNnum2SVFNumF7R4j6bw1pvvMW0TS2AqA09sInXxp.l8Dk6EoxIlA6I1f3?startTime=1604356558000'>Video lecture</a>
+<a href='Lecture10_Slides.pdf'>Slides</a>
+
 <h2> Tentative Syllabus </h2>
 
 
