@@ -48,6 +48,7 @@ Lecture-7: Throughput and the GHOST algorithm (Beyond the private attack). Oct-2
 Lecture-8: Safety beyond the Private Attack. Oct-26-2020
 - <a href='https://washington.zoom.us/rec/share/MDqF1g1fH1ZIDpQuCCewH-yxugpkezZF33IFxCuw2B_w4FDBisGJ2BuvIiC1VadR.Q31GwMlY_41DeUxE'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%208%20Full%20Security%20Proof%7C3b7c1ec3-de44-af47-99d8-588873e34077%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_8.pdf'>Scribe Notes</a>
 
 Lecture-9: Liveness, Chain Quality and General Delay. Oct-28-2020
 - <a href='https://washington.zoom.us/rec/play/R87el8U1O7vjUh4v4bGmgSrXqFv9ZiZqU4pBUbYZG4BXa04FSSs-tSIiU3J74rk8FQjilFSWog3rss2K.Ay8K6TxGg8amnA6l?
@@ -62,6 +63,7 @@ Project ideas (discussed Oct-28-2020):
 Lecture-10: Prism: Low-latency confirmation. Nov-2-2020
 - <a href='https://washington.zoom.us/rec/share/f3Fm6HdVdRXacW49TQgZ3kdLNnum2SVFNumF7R4j6bw1pvvMW0TS2AqA09sInXxp.l8Dk6EoxIlA6I1f3?startTime=1604356558000'>Video lecture</a>
 - <a href='Lecture10_Slides.pdf'>Slides</a>
+- <a href='Scribe_notes_Lecture_10.pdf'>Scribe Notes</a>
 
 --
 Lecture-11: Light nodes, decoupled validity and data availability. Nov-4-2020
