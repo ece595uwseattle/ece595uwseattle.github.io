@@ -53,15 +53,30 @@ Lecture-9: Liveness, Chain Quality and General Delay. Oct-28-2020
 - <a href='https://washington.zoom.us/rec/play/R87el8U1O7vjUh4v4bGmgSrXqFv9ZiZqU4pBUbYZG4BXa04FSSs-tSIiU3J74rk8FQjilFSWog3rss2K.Ay8K6TxGg8amnA6l?
 startTime=1603920878000'>Video lecture Part-1</a>
 - <a href='https://washington.zoom.us/rec/play/Dq_7vqU_ecfivV9emplH9sbQAGpi6InraGR1a4TAfBd9u1lS9KaEoL3cqiqrdRtGZzIFUPsSTp9mda6u.LenWMsW6kCIUSF_y?startTime=1603926903000'>Video lecture Part-2</a>
-- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%208%20Full%20Security%20Proof%7C3b7c1ec3-de44-af47-99d8-588873e34077%2F%29'>Handwritten Notes</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%209%20Security%20..%20Contd%20and%20Latency%7C497ed1d1-f97d-5743-b991-08ea2c125213%2F%29'>Handwritten Notes</a>
 - <a href='Scribe_notes_Lecture_9.pdf'>Scribe Notes</a>
 
 Project ideas (discussed Oct-28-2020): 
 - <a href='https://washington.zoom.us/rec/share/2Z_NcR0dmK1kF_DqIXR9sjxzJMi2PJo7L99-AX9tuORt248fy57sf43fI3s_GOIf.9enT7MszrdSRHV4Z?startTime=1603926015000'>Project</a>
 
-Lecture-10: Prism: Low-latency confirmation. Nov-3-2020
+Lecture-10: Prism: Low-latency confirmation. Nov-2-2020
 - <a href='https://washington.zoom.us/rec/share/f3Fm6HdVdRXacW49TQgZ3kdLNnum2SVFNumF7R4j6bw1pvvMW0TS2AqA09sInXxp.l8Dk6EoxIlA6I1f3?startTime=1604356558000'>Video lecture</a>
 - <a href='Lecture10_Slides.pdf'>Slides</a>
+
+--
+Lecture-11: Light nodes, decoupled validity and data availability. Nov-4-2020
+- <a href='https://washington.zoom.us/rec/share/RNY6Ur8Xw7Ewl636krL8Ar46MgO2WQIwFcaOJerjBpG2pzFGYIRqt7xZJCQlZ0Zh.R90yew2h-pTuFlZj?startTime=1604529143000'>Video lecture</a>
+- <a href='https://washington.zoom.us/rec/share/eqkqw_sn0FIK-o9N-YB7Cfd28tAHLPIqJccjU5MG-x3gTjMRfiEKTm0ybVXbt615.jCUuMIAnBAI2l5kd'>Handwritten Notes</a>
+
+Lecture-12: Schemes for throughput improvement. Nov-9-2020
+- <a href='https://washington.zoom.us/rec/share/4mJyyARH62pBhJbnNEgohxbY5LohDHXkm82JnA9Uw-2CZ4lNpnu2pEL0QRYoUxke.OLKrOCg4Vcp6ofMF?startTime=1604961555000'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2012%20Throughput%7Cfbed217b-929f-5443-b93e-f1f392dc608c%2F%29'>Handwritten Notes</a>
+
+
+
+Lecture-13: Beyond Proof-of-work. Nov-16-2020
+
+
 
 <h2> Tentative Syllabus </h2>
 
