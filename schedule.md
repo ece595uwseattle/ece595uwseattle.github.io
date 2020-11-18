@@ -69,6 +69,7 @@ Lecture-10: Prism: Low-latency confirmation. Nov-2-2020
 Lecture-11: Light nodes, decoupled validity and data availability. Nov-4-2020
 - <a href='https://washington.zoom.us/rec/share/RNY6Ur8Xw7Ewl636krL8Ar46MgO2WQIwFcaOJerjBpG2pzFGYIRqt7xZJCQlZ0Zh.R90yew2h-pTuFlZj?startTime=1604529143000'>Video lecture</a>
 - <a href='https://washington.zoom.us/rec/share/eqkqw_sn0FIK-o9N-YB7Cfd28tAHLPIqJccjU5MG-x3gTjMRfiEKTm0ybVXbt615.jCUuMIAnBAI2l5kd'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_11.pdf'>Scribe Notes</a>
 
 Lecture-12: Schemes for throughput improvement. Nov-9-2020
 - <a href='https://washington.zoom.us/rec/share/4mJyyARH62pBhJbnNEgohxbY5LohDHXkm82JnA9Uw-2CZ4lNpnu2pEL0QRYoUxke.OLKrOCg4Vcp6ofMF?startTime=1604961555000'>Video lecture</a>
