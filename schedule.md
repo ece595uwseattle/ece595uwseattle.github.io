@@ -78,6 +78,13 @@ Lecture-12: Schemes for throughput improvement. Nov-9-2020
 
 
 Lecture-13: Beyond Proof-of-work. Nov-16-2020
+- <a href='https://washington.zoom.us/rec/share/eakB4iW1QVfvW59O2rPdIrX8WDnYmMpZiQQfOgCRio1cJxe3GePjupl8mXIR7vUC.Uq3moEff8nd_wCWf?startTime=1605566150000'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2013%20Proof%20of%20Stake%7Cb306a405-30a1-a84b-b256-198a288de014%2F%29'>Handwritten Notes</a>
+
+Lecture-14: Proof-of-stake. Nov-18-2020
+- <a href='https://washington.zoom.us/rec/share/pLdBIdMiSx_V9lJBHIvl5JfROWx6QrcvaLw9CyJObQTkUAX2p5f43DFp6Mplik32.KU97B-bJlNzXXIbd?startTime=1605738762000'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2014%20POS%7Cba5372b3-fec6-4246-a4de-4c7da4dd2985%2F%29'>Handwritten Notes</a>
+
 
 
 
