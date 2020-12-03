@@ -98,6 +98,10 @@ Lecture-17: Scaling. Dec-2-2020
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2017%7C990be437-4354-8c45-8109-c89b3603ee74%2F%29'>Handwritten Notes</a>
 
 
+Lecture-18: Scaling 2. Dec-2-2020
+- <a href='https://washington.zoom.us/rec/share/A7FVyVah-br_bmIawe4cvhWydLN7eWHnwACURpRzFQNTY0YvW4Pa_Lq86sfJsBQ8.6j9ooR7RPg4nqQwi?startTime=1606948576000'>Video lecture</a>
+- <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2018%7Cfa71b0b0-d76e-1044-9899-dabdf61244b8%2F%29'>Handwritten Notes</a>
+
 
 
 <h2> Tentative Syllabus </h2>
