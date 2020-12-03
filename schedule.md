@@ -74,7 +74,7 @@ Lecture-11: Light nodes, decoupled validity and data availability. Nov-4-2020
 Lecture-12: Schemes for throughput improvement. Nov-9-2020
 - <a href='https://washington.zoom.us/rec/share/4mJyyARH62pBhJbnNEgohxbY5LohDHXkm82JnA9Uw-2CZ4lNpnu2pEL0QRYoUxke.OLKrOCg4Vcp6ofMF?startTime=1604961555000'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2012%20Throughput%7Cfbed217b-929f-5443-b93e-f1f392dc608c%2F%29'>Handwritten Notes</a>
-
+- <a href='Scribe_notes_Lecture_12.pdf'>Scribe Notes</a>
 
 
 Lecture-13: Beyond Proof-of-work. Nov-16-2020
