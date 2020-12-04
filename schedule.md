@@ -84,6 +84,7 @@ Lecture-13: Beyond Proof-of-work. Nov-16-2020
 Lecture-14: Proof-of-stake. Nov-18-2020
 - <a href='https://washington.zoom.us/rec/share/pLdBIdMiSx_V9lJBHIvl5JfROWx6QrcvaLw9CyJObQTkUAX2p5f43DFp6Mplik32.KU97B-bJlNzXXIbd?startTime=1605738762000'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2014%20POS%7Cba5372b3-fec6-4246-a4de-4c7da4dd2985%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_14.pdf'>Scribe Notes</a>
 
 Lecture-15: Proof-of-stake 2. Nov-23-2020
 - <a href='https://washington.zoom.us/rec/share/A64AraMdI2RVxzD-0GbqbZW3wtFbrqQZbkBJqO_2uPDtW_78w4-l_2JH5Jzq0Czo._ZXscgNuw87f_CHa?startTime=1606170721000'>Video lecture</a>
