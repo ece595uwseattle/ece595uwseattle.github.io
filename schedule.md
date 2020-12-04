@@ -88,6 +88,7 @@ Lecture-14: Proof-of-stake. Nov-18-2020
 Lecture-15: Proof-of-stake 2. Nov-23-2020
 - <a href='https://washington.zoom.us/rec/share/A64AraMdI2RVxzD-0GbqbZW3wtFbrqQZbkBJqO_2uPDtW_78w4-l_2JH5Jzq0Czo._ZXscgNuw87f_CHa?startTime=1606170721000'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2015%7C87efa9c5-59c5-b546-af1f-bc5bb3295a8d%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_15.pdf'>Scribe Notes</a>
 
 Lecture-16: Proof-of-stake 3. Nov-25-2020
 - <a href='https://washington.zoom.us/rec/share/U5ShZprfMjR1k3HsPfv2MwuHSqJdqFO2tyg6cM5nVRWhxGox4RXXHSqMIyFv8EgR.79AGVMVyWa7YFPg_?startTime=1606343932000'>Video lecture</a>
