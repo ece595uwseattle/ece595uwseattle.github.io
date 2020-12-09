@@ -95,9 +95,10 @@ Lecture-16: Proof-of-stake 3. Nov-25-2020
 - <a href='https://washington.zoom.us/rec/share/U5ShZprfMjR1k3HsPfv2MwuHSqJdqFO2tyg6cM5nVRWhxGox4RXXHSqMIyFv8EgR.79AGVMVyWa7YFPg_?startTime=1606343932000'>Video lecture</a>
 - <a href='Lecture16.pdf'>Handwritten Notes</a>
 
-Lecture-17: Scaling. Dec-2-2020
+Lecture-17: Scaling. Nov-30-2020
 - <a href='https://washington.zoom.us/rec/share/KKjakCtbUg3O3_8EmGd_BV3f6Te7bdG8fTYWdI1JbpfEip7JbXVmCmvcG4pmWOA.SQFGmUQcMJztJ0zh?startTime=1606775707000'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2017%7C990be437-4354-8c45-8109-c89b3603ee74%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_17.pdf'>Scribe Notes</a>
 
 
 Lecture-18: Scaling 2. Dec-2-2020
