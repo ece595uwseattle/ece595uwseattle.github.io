@@ -96,6 +96,7 @@ Lecture-15: Proof-of-stake 2. Nov-23-2020
 Lecture-16: Proof-of-stake 3. Nov-25-2020
 - <a href='https://washington.zoom.us/rec/share/U5ShZprfMjR1k3HsPfv2MwuHSqJdqFO2tyg6cM5nVRWhxGox4RXXHSqMIyFv8EgR.79AGVMVyWa7YFPg_?startTime=1606343932000'>Video lecture</a>
 - <a href='Lecture16.pdf'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_16.pdf'>Scribe Notes</a>
 
 Lecture-17: Scaling. Nov-30-2020
 - <a href='https://washington.zoom.us/rec/share/KKjakCtbUg3O3_8EmGd_BV3f6Te7bdG8fTYWdI1JbpfEip7JbXVmCmvcG4pmWOA.SQFGmUQcMJztJ0zh?startTime=1606775707000'>Video lecture</a>
@@ -106,6 +107,7 @@ Lecture-17: Scaling. Nov-30-2020
 Lecture-18: Scaling 2. Dec-2-2020
 - <a href='https://washington.zoom.us/rec/share/A7FVyVah-br_bmIawe4cvhWydLN7eWHnwACURpRzFQNTY0YvW4Pa_Lq86sfJsBQ8.6j9ooR7RPg4nqQwi?startTime=1606948576000'>Video lecture</a>
 - <a href='https://onedrive.live.com/redir?resid=5F123F2286DE1545%21171&authkey=%21AGSa1TPHYHp5zIY&page=View&wd=target%28Lectures.one%7C2fc43add-236e-d848-93e9-3f8ef2e0a45d%2FLecture%2018%7Cfa71b0b0-d76e-1044-9899-dabdf61244b8%2F%29'>Handwritten Notes</a>
+- <a href='Scribe_notes_Lecture_18.pdf'>Scribe Notes</a>
 
 Lecture-19: Scaling 3 / Networking. Dec-7-2020
 - <a href='https://washington.zoom.us/rec/share/eEzxryv8j9LWM0XxvKFrPCOks7P2U2RHZtP_AZJQaoSnF46bRSQ8YcSBqUybKn44.JHcAn3YIOx0nVq8a?startTime=1607380372000'>Video lecture</a>
